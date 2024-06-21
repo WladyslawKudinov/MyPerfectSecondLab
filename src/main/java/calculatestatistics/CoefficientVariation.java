@@ -8,7 +8,7 @@ import java.util.List;
 
 public class CoefficientVariation implements statystics {
     private List<Double> result = new ArrayList<>();
-
+//
     @Override
     public void calculate(List<List<Double>> columns) {
         result = new ArrayList<>();
